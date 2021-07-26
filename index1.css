@@ -5,13 +5,15 @@
 {
     .template {
         width: 100%;
-        border: 2px solid green;
+        /* border: 2px solid green; */
         border-radius: 14px;
         background-color: rgb(238, 238, 238);
         box-shadow: rgb(204 41 41 / 50%) 1px 1px 15px 2px;
+        margin-bottom: 25px;
+
     }
     .spacess {
-        border: 2px solid green;
+        /* border: 2px solid green; */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -225,13 +227,15 @@
 {
     .template {
         width: 100%;
-        border: 2px solid green;
+        /* border: 2px solid green; */
         border-radius: 14px;
         background-color: rgb(238, 238, 238);
         box-shadow: rgb(204 41 41 / 50%) 1px 1px 15px 2px;
+        margin-bottom: 25px;
+
     }
     .spacess {
-        border: 2px solid green;
+        /* border: 2px solid green; */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -387,13 +391,15 @@
 {
     .template {
         width: 100%;
-        border: 2px solid green;
+        /* border: 2px solid green; */
         border-radius: 14px;
         background-color: rgb(238, 238, 238);
         box-shadow: rgb(204 41 41 / 50%) 1px 1px 15px 2px;
+        margin-bottom: 25px;
+
     }
     .spacess {
-        border: 2px solid green;
+        /* border: 2px solid green; */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -582,13 +588,15 @@
 {
     .template {
         width: 100%;
-        border: 2px solid green;
+        /* border: 2px solid green; */
         border-radius: 14px;
         background-color: rgb(238, 238, 238);
         box-shadow: rgb(204 41 41 / 50%) 1px 1px 15px 2px;
+        margin-bottom: 25px;
+
     }
     .spacess {
-        border: 2px solid green;
+        /* border: 2px solid green; */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -681,13 +689,15 @@
 {
     .template {
         width: 100%;
-        border: 2px solid green;
+        /* border: 2px solid green; */
         border-radius: 14px;
         background-color: rgb(238, 238, 238);
         box-shadow: rgb(204 41 41 / 50%) 1px 1px 15px 2px;
+        margin-bottom: 25px;
+
     }
     .spacess {
-        border: 2px solid green;
+        /* border: 2px solid green; */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
@@ -733,13 +743,15 @@
 {
     .template {
         width: 100%;
-        border: 2px solid green;
+        /* border: 2px solid green; */
         border-radius: 14px;
         background-color: rgb(238, 238, 238);
         box-shadow: rgb(204 41 41 / 50%) 1px 1px 15px 2px;
+        margin-bottom: 25px;
+
     }
     .spacess {
-        border: 2px solid green;
+        /* border: 2px solid green; */
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
