@@ -19,7 +19,7 @@
 }
 .box3{
     width: fit-content;
-    height: fit-content;-
+    height: fit-content;
 }
 .menu23{
     width: 50px;
@@ -48,7 +48,7 @@
     height: 15px;
 }
 .box1{
-    border: 2px solid rgb(241, 237, 237);
+    /* border: 2px solid rgb(241, 237, 237); */
     width: 180px;
     height: 50px;
     text-decoration: none;
@@ -72,7 +72,7 @@
     padding: -1px;
 }
 .box2{
-    border: 2px solid rgb(240, 231, 231);
+    /* border: 2px solid rgb(240, 231, 231); */
     width: 50%;
     height: 50px;
     display: flex;
